@@ -9,7 +9,7 @@ let
 
 in
   self: super: {
-    ghcVersion = "ghc963";
+    ghcVersion = "ghc966";
 
     all-cabal-hashes =
         # Update revision to match required hackage
